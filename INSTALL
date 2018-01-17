@@ -1,0 +1,9 @@
+Building DUCOIN
+
+See doc/readme-qt.rst for instructions on building DUCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DUCOIN.
+
+See doc/build-*.txt for instructions on building ducoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DUCOIN.
